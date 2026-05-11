@@ -8,7 +8,7 @@ A labor teljesítése egy dolgozat sikeres megírásával történik az utolsó 
     Végezzen felügyelt tanítást az alábbi modellekkel és beállításokkal: döntési fa (mélység, levelek vagy vágások mérete, homogenitási kritérium beállítása), logisztikus regresszió (solver és iteráció beállítása), neurális háló (a háló mérete, az aktivációs függvény megválasztása). A score alapján hasonlítsa össze az illesztett modelleket. (10 pont)
     Számolja ki az 5. pont legjobb modelljére a tévesztési mátrixot és ábrázolja a ROC-görbét az AUC értékkel. (4 pont)
     Végezzen nemfelügyelt tanítást a K-közép módszerrel az input attribútumokon. Határozza meg az optimális klaszterszámot 50-ig a DB indexszel. Az optimális klaszterszám mellett vizualizálja a klasztereket egy pontdiagrammon, ahol a két koordináta egy 2 dimenziós PCA eredménye. (13 pont)
-
+    added blabla
 """
 
 import pandas as pd
